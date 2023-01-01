@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Wiki Template
+title: 测试内容
 cate1:
 cate2:
 description: some word here
@@ -9,6 +9,6 @@ type:
 link:
 ---
 
-Content here
-
-我在测试
+到了春熙路
+==========
+![](../images/memory_photo/test1.png)
