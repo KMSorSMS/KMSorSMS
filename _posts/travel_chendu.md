@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 成都之旅 part I
-categories: [生活, 女朋友]
-description: 春熙路
-keywords: 成都, 跨年
+title: 简单的全排列算法实现 
+categories: Algorithm
+description: 一种使用递归思路实现的简易全排列算法。
+keywords: 算法, 全排列, 递归
 ---
-[TOC]
-
 
 
 到了春熙路
