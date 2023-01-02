@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 简单的全排列算法实现 
-categories: Algorithm
-description: 一种使用递归思路实现的简易全排列算法。
-keywords: 算法, 全排列, 递归
+title: 成都之旅 part I
+categories: travel
+description: 和女朋友的旅行
+keywords: 成都, 吃喝
 ---
 
 
 到了春熙路
 ==========
-![](../images/memory_photo/test1.png)
+![](/images/posts/travel/test1.png)
