@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 在一起的点滴
+keywords: liamY, cyh
 comments: true
 menu: 关于
 permalink: /about/
@@ -10,4 +10,5 @@ permalink: /about/
 
 ***陈陈和袁袁的memory***
 
-嘻嘻
+![](/images/posts/travel/self_pic1.jpg)
+
