@@ -48,6 +48,6 @@ keywords: 成都, 吃喝
 -----------
 # 好吃
 ![tasty]/images/posts/travel/2B6150163667A7EFEAA826A286EDDCFC.png)
-![鸡爪](../images/posts/travel/AD665603B559778A20F5E59C5538956E.png)
+![鸡爪](/images/posts/travel/AD665603B559778A20F5E59C5538956E.png)
 ----------------
 
