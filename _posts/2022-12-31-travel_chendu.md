@@ -5,20 +5,7 @@ categories: travel
 description: 和女朋友的旅行
 keywords: 成都, 吃喝
 ---
-<!-- TOC -->
 
-- [去了公园](#去了公园)
-  - [](#)
-- [看了panda](#看了panda)
-  - [](#-1)
-- [到了春熙路](#到了春熙路)
-  - [](#-2)
-- [贵](#贵)
-  - [](#-3)
-- [好吃](#好吃)
-  - [](#-4)
-
-<!-- /TOC -->
 # 去了公园
 
 ![Alt text](/images/posts/travel/1878651C2FCA42CC13EF90A911E0ADE5.png)
