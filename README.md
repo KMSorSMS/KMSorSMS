@@ -1,22 +1,13 @@
 ### Yoo, I'm liamY 👋
-
+  <img align="right" alt="GIF" src="https://github.com/KMSorSMS/KMSorSMS/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/KMSorSMS)
 - ⚡ C / Go.
 - 🍻 Computer Science Student
 - Embedded System software engineer(on going)
 - ⚽ love football
-
-  <img align="right" alt="GIF" src="https://github.com/KMSorSMS/KMSorSMS/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💼 any freelance work? do reach, [email](yzwliam@126.com) :)
 - 💬 ask me about anything, i am happy to help;
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 
