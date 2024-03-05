@@ -26,7 +26,7 @@
 - Embedded System software engineer(on going)
 - ⚽ love football
 - 💼 any freelance work? do reach, [email](yzwliam@126.com) :)
-- 🔖 how about taking a look of my blog?👉[blog](liamy.clovy.top)
+- 🔖 how about taking a look of my blog?👉[blog](https://liamy.clovy.top)
 - 💬 ask me about anything, i am happy to help;
 
 
