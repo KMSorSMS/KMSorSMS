@@ -1,5 +1,6 @@
 ### Yoo, I'm liamY 👋
   <img align="right" alt="GIF" src="https://github.com/KMSorSMS/KMSorSMS/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
  [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/KMSorSMS)
   
@@ -25,6 +26,7 @@
 - Embedded System software engineer(on going)
 - ⚽ love football
 - 💼 any freelance work? do reach, [email](yzwliam@126.com) :)
+- 🔖 how about taking a look of my blog?👉[blog](liamy.clovy.top)
 - 💬 ask me about anything, i am happy to help;
 
 
