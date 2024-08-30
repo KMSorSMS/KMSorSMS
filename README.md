@@ -21,7 +21,7 @@
 </p>
 
 
-- ⚡ C / Go.
+- ⚡ C / Rust / Go.
 - 🍻 Computer Science Student
 - Embedded System software engineer(on going)
 - ⚽ love football
