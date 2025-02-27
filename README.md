@@ -15,7 +15,7 @@
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMSorSMS&show_icons=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMSorSMS&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+|[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=300&color=E2B3F7&center=true&vCenter=true&width=447&lines=Chasing+Possible.;%E2%80%94%E2%80%94LiamY)](https://git.io/typing-svg) | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMSorSMS&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
