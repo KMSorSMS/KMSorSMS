@@ -21,9 +21,9 @@
 </p>
 
 
-- ⚡ C / Rust / Go.
+- ⚡ C/C++ / Rust / Python / Go.
 - 🍻 Computer Science Student
-- Embedded System software engineer(on going)
+- 📱 Embedded System software engineer(on going)
 - ⚽ love football & 📷 photography & 🎵 music(wide range)
 - 💼 any freelance work? do reach, <a href="mailto:yzwliam@126.com">email me</a> :)
 - 🔖 how about taking a look of my blog?👉<a href="https://liamy.clovy.top" target="_blank">my personal blog</a>
