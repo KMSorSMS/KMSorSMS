@@ -26,8 +26,8 @@
 - 📱 Embedded System software engineer(on going)
 - ⚽ love football & 📷 photography & 🎵 music(wide range)
 - 💼 any freelance work? do reach, <a href="mailto:yzwliam@126.com">email me</a> :)
-- 🔖 how about taking a look of my blog?👉<a href="https://liamy.clovy.top" target="_blank">my personal blog</a>
-- 💬 ask me about anything, i am happy to help;
+- 🔖 how about taking a look of my blog?👉<a href="https://kmsorsms.github.io/blog/" target="_blank">my personal blog</a>
+- 💬 ask me about anything, I am happy to help;
 
 
 <p align="right">
